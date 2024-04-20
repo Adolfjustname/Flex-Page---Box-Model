@@ -73,7 +73,7 @@ a {
 
 .last-section {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .bg-image {
@@ -157,7 +157,7 @@ a {
 
 .box-a,
 .box-b {
-  min-width: 540px;
+  width: 50%;
   min-height: 338px;
   padding: 2em;
 }
